@@ -1,3 +1,4 @@
+//O(n^2)
 function arrayManipulation(n, queries) {
     // Write your code here
     var arr = Array(n).fill(0)
